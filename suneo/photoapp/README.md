@@ -119,6 +119,13 @@ function mouseout()
 ## OUTPUT:
 
 
+![alt text](<Screenshot (47).png>)
+
+
+![alt text](<Screenshot (48).png>)
+
+
+
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
