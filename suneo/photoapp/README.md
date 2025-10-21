@@ -118,11 +118,14 @@ function mouseout()
 ```
 ## OUTPUT:
 
-![alt text](<Screenshot (47).png>)
+
+![alt text](<output 1.png>)
 
 
 
-![alt text](<Screenshot (48).png>)
+
+![alt text](<output 2.png>)
+
 
 
 ## RESULT:
