@@ -117,6 +117,8 @@ function mouseout()
 
 ```
 ## OUTPUT:
+![alt text](<suneo/photoapp/static/output 1.png>)
+![alt text](<suneo/photoapp/static/output 2.png>)
 
 
 
