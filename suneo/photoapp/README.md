@@ -122,11 +122,14 @@ function mouseout()
 ![alt text](<output 1.png>)
 
 
-
-
 ![alt text](<output 2.png>)
 
+## OUTPUT:
 
+![alt text](<output 1-1.png>)
+
+
+![alt text](<output 2-1.png>)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
